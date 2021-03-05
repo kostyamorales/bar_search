@@ -1,0 +1,5 @@
+requests~=2.24.0
+folium~=0.10.1
+geopy~=1.23.0
+Flask~=1.1.2
+python-dotenv~=0.15.0
